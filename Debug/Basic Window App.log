@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\hdevinen\source\repos\Basic Window App\main.cpp(41): warning C4715: 'WinMain': not all control paths return a value
+  Basic Window App.vcxproj -> C:\Users\hdevinen\source\repos\Basic Window App\Debug\Basic Window App.exe
